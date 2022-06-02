@@ -11,3 +11,15 @@ The dataset provides the history of the daily prices of Bitcoin. The data starts
 
 
 # Models
+1. Convolutional Neural Networks
+2. Long Short Term Memory
+3. Bidirectional-Long Short Term Memory
+4. Gated Recurrent Units
+5. Bidirectional-Gated Recurrent Units
+
+# Results
+
+# Conclusion
+Machine learning techniques have recently gained a lot of popularity among the international community. The main purpose of this dissertation was to know whether these new approaches are more powerful than the traditional methods, or not. For this, I compared the accuracy of all the above-mentioned forecasts for a daily time series of bitcoin close prices.
+
+The GRU predictions have better precision results in terms of forecasting errors are RMSE (), MSE (), MAE (), and R2 Score (), this model gives better forecasting error values when compared to the other models. We concluded that the GRU approach by large outperforms the other model outputs as previously mentioned.
