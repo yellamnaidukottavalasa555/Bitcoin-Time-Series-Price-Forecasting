@@ -5,3 +5,7 @@ Bitcoin is a decentralized cryptocurrency, which is a type of digital asset that
 
 ## Dataset
 The dataset provides the history of the daily prices of Bitcoin. The data starts from 17-Sep-2014 to 19-Feb-2022. The dataset contains Date, Open, High, Low, Close, Adj Close, and Volume columns. I suppose the price of bitcoin will keep growing in value. This is subject to proof after testing the data. So, the dataset contains 2713 rows by 7 columns. It contains information about the out-price dynamics of bitcoin against the USD that is, the opening and closing price of each day, the low and high price of each day as well as the volume traded on that day. This data was obtained from yahoo finance (https://finance.yahoo.com/quote/BTC-USD/history?p=BTC-USD). However, this is real-time data that keeps updating. For example, if someone accesses it after some time, he/she will find that it has added on depending on the time of access. But the previous data will remain constant.
+
+![image](https://user-images.githubusercontent.com/50575405/171634613-d2e0dadd-e352-4104-862c-8ff04997a5c9.png)
+
+# Models
