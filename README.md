@@ -18,13 +18,13 @@ The dataset provides the history of the daily prices of Bitcoin. The data starts
 5. Bidirectional-Gated Recurrent Units
 
 # Results
-|          | RMSE     |    MSE      | MAE     | R2 Score | 
-| :-------:| :-------:| :----------:| :------:| :-------:|
-| CNN      | 5232.02  | 27374017.20 | 4387.37 | 0.88     |
-| LSTM     | 8255.16  | 68147705.60 | 6988.87 | 0.72     |
-| Bi-LSTM  | 6406.97  | 41049392.91 | 5199.89 | 0.83     |
-| GRU      | 2604.54  | 6783632.43  | 1955.65 | 0.97     |
-| Bi-GRU   | 2625.24  | 6891926.65  | 2017.39 | 0.96     |
+|             | RMSE     |    MSE      | MAE     | R2 Score | 
+| :----------:| :-------:| :----------:| :------:| :-------:|
+| **CNN**     | 5232.02  | 27374017.20 | 4387.37 | 0.88     |
+| **LSTM**    | 8255.16  | 68147705.60 | 6988.87 | 0.72     |
+| **Bi-LSTM** | 6406.97  | 41049392.91 | 5199.89 | 0.83     |
+| **GRU**     | 2604.54  | 6783632.43  | 1955.65 | 0.97     |
+| **Bi-GRU**  | 2625.24  | 6891926.65  | 2017.39 | 0.96     |
 
 # Conclusion
 Machine learning techniques have recently gained a lot of popularity among the international community. The main purpose of this dissertation was to know whether these new approaches are more powerful than the traditional methods, or not. For this, I compared the accuracy of all the above-mentioned forecasts for a daily time series of bitcoin close prices.
